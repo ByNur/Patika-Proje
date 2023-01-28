@@ -1,0 +1,15 @@
+Matematikte negatif olmayan bir gerçel {\displaystyle x\!}{\displaystyle x\!} sayısının temel karekök bulma işlemi {\displaystyle {\sqrt {x}}}{\displaystyle {\sqrt {x}}} şeklinde gösterilir ve karesi (bir sayının kendisiyle çarpılmasının sonucu) {\displaystyle x}{\displaystyle x} olan negatif olmayan bir gerçek sayıyı ifade eder.
+
+Örneğin, {\displaystyle {\sqrt {9}}=3}{\displaystyle {\sqrt {9}}=3} 'tür çünkü {\displaystyle 3^{2}=3\times 3=9}{\displaystyle 3^{2}=3\times 3=9} 'dur.
+
+Bu örneğin de ileri sürdüğü gibi karekök bulma, ikinci dereceden denklemlerin (genel olarak {\displaystyle ax^{2}+bx+c=0}{\displaystyle ax^{2}+bx+c=0} tipi denklemler) çözümünde kullanılabilir.[2]
+
+Karekök almanın sonucunda iki çözüm vardır. Negatif olmayan sayılar için bunlar temel kare kök ve negatif kare köktür. Negatif sayıların kare köklerini tanımlamak için ise sanal sayı ve karmaşık sayılar kavramları geliştirilmiştir.
+
+Pozitif tam sayıların kare kökleri genel olarak irrasyonel sayılardır (iki tam sayının kesiri olarak ifade edilemeyen sayılardır).
+
+Örneğin {\displaystyle {\sqrt {2}}}{\displaystyle {\sqrt {2}}}, tam olarak m/n (m ve n tam sayı olacak şekilde) şeklinde yazılamaz. Buna karşın bu sayı kenarları 1 birim olan bir karenin köşegen uzunluğuna eşittir.
+
+{\displaystyle {\sqrt {2}}}{\displaystyle {\sqrt {2}}} irrasyonel olduğunun bulunması Pythagoras'ın bir takipçisi olan Hippasus'a atfedilir. Bu konuyla ilgili şöyle bir rivayet anlatılır; Sayılara mutlak bir inançla bağlı olan Pisagor'un takipçilerinden birisi olan Metanpontumlu Hippasus, dik kenarları 1 birim olan bir dik üçgenin hipotenüs uzunluğunun rasyonel bir sayı olmadığını kanıtlamış. Bunu kabullenemeyen Pisagor, Hippasus'un kanıtlarının aksini de gösteremeyince, açık denizde Hippasus'u bir tekneden suya attırmış.[3]
+
+Kare kök sembolü ({\displaystyle {\sqrt {\ }}}{\displaystyle {\sqrt {\ }}}) ilk olarak 16. yüz yılda kullanılmaya başlanmıştır. Latince kök demek olan radix kelimesinin baş harfinden, yani küçük r harfinden türetildiği söylenir.
